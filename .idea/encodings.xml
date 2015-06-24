@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Core/Validator.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Entities/User/Permission.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Entities/User/Photo.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Entities/User/Role.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Entities/User/User.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Controllers/User/AuthController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Controllers/User/PhotoController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Controllers/User/UserController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Kernel.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Middleware/User/CanDestroyPhotos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Middleware/User/CanEditPhotos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Middleware/User/CanEditProfile.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Requests/Request.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Requests/User/Photo/UpdateRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Requests/User/Role/CreateRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Requests/User/Role/UpdateRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Requests/User/User/DestroyMultipleRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Requests/User/User/DestroyRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Requests/User/User/RestoreRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Requests/User/User/SoftDeleteRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Requests/User/User/UpdateRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Routes/User/Photo.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/Routes/User/Profile.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Http/routes.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Repositories/Repository.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/app/Repositories/User/PhotoRepository.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/composer.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/config/app.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/database/migrations/2015_06_24_111452_create_photo_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/database/seeds/DatabaseSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/database/seeds/UserPermissionTableSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/database/seeds/UserPhotoTableSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/database/seeds/UserRolePermissionTableSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/resources/lang/en/messages.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/resources/lang/en/validation.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/resources/lang/es/messages.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/resources/lang/es/validation.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/resources/views/layouts/partials/header_user.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/resources/views/user/photo/edit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/resources/views/user/photo/partials/form_destroy.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/resources/views/user/user/partials/nav_profile.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../edcilo/resources/views/user/user/partials/panel_header.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/es/validation.php" charset="UTF-8" />
+  </component>
+</project>
